@@ -1,0 +1,22 @@
+{
+  "heroDesktop": {
+    "count": 600,
+    "bytes": 14310320,
+    "mb": "13.65"
+  },
+  "heroMobile": {
+    "count": 600,
+    "bytes": 6836872,
+    "mb": "6.52"
+  },
+  "dismantleDesktop": {
+    "count": 200,
+    "bytes": 11814696,
+    "mb": "11.27"
+  },
+  "dismantleMobile": {
+    "count": 200,
+    "bytes": 5829030,
+    "mb": "5.56"
+  }
+}
